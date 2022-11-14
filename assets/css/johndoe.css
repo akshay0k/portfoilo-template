@@ -11529,7 +11529,7 @@ pre .code {
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
   color: #fff;
-  margin-left: 40%;
+  /* margin-left: 40%; */
 }
 
 .header .header-content .header-subtitle {
